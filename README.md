@@ -31,8 +31,8 @@ To run this project locally, follow the instructions below.
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/hr-analytics-dashboard.git
-cd hr-analytics-dashboard
+git https://github.com/saurabhingle/HrInsights.git
+cd Hr_Dashboard
 ```
 
 ### 2. Set Up Virtual Environment
